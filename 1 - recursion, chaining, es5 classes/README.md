@@ -1,6 +1,6 @@
 ## Reading material:
 > Method chaining: https://schier.co/blog/2013/11/14/method-chaining-in-javascript.html <br>
-> ES5 Classes: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Class
+> ES5 Classes: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Classes
 
 ## Requirements for 1st exercise:
 Implement a class that uses for loops for the 1st 2 points and recursion for all:
